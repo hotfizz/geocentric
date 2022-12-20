@@ -11,9 +11,9 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/dijkvy/geocentric/config"
-	"github.com/dijkvy/geocentric/log"
-	"github.com/dijkvy/geocentric/log/zaplog"
+	"github.com/hotfizz/geocentric/config"
+	"github.com/hotfizz/geocentric/log"
+	"github.com/hotfizz/geocentric/log/zaplog"
 )
 
 var (

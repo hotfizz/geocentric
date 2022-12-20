@@ -1,4 +1,4 @@
-module github.com/dijkvy/geocentric
+module github.com/hotfizz/geocentric
 
 go 1.16
 

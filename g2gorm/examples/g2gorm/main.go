@@ -11,9 +11,9 @@ import (
 	"go.uber.org/zap"
 	"gorm.io/gorm/logger"
 
-	lc "github.com/dijkvy/geocentric/config"
-	"github.com/dijkvy/geocentric/g2gorm"
-	"github.com/dijkvy/geocentric/log/zaplog"
+	lc "github.com/hotfizz/geocentric/config"
+	"github.com/hotfizz/geocentric/g2gorm"
+	"github.com/hotfizz/geocentric/log/zaplog"
 )
 
 var (

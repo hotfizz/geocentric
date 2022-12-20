@@ -6,8 +6,8 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/dijkvy/geocentric/config"
-	"github.com/dijkvy/geocentric/log/zaplog"
+	"github.com/hotfizz/geocentric/config"
+	"github.com/hotfizz/geocentric/log/zaplog"
 )
 
 func ExampleNewHelper() {

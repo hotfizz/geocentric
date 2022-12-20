@@ -8,7 +8,7 @@ import (
 	"go.uber.org/zap"
 	"gorm.io/gorm/logger"
 
-	"github.com/dijkvy/geocentric/tag"
+	"github.com/hotfizz/geocentric/tag"
 )
 
 type myEntryImpl struct {

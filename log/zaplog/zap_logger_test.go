@@ -7,7 +7,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/dijkvy/geocentric/config"
+	"github.com/hotfizz/geocentric/config"
 )
 
 func TestNewZapLogger(t *testing.T) {

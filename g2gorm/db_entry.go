@@ -12,7 +12,7 @@ import (
 	"gorm.io/gorm/logger"
 	"gorm.io/gorm/schema"
 
-	"github.com/dijkvy/geocentric/config"
+	"github.com/hotfizz/geocentric/config"
 )
 
 type ConfigOption func(c *gorm.Config)

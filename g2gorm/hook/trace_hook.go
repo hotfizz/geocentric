@@ -6,8 +6,8 @@ import (
 	"go.uber.org/zap"
 	"gorm.io/gorm/logger"
 
-	"github.com/dijkvy/geocentric/g2gorm"
-	"github.com/dijkvy/geocentric/tag"
+	"github.com/hotfizz/geocentric/g2gorm"
+	"github.com/hotfizz/geocentric/tag"
 )
 
 func NewTraceHook(levels []logger.LogLevel) g2gorm.Hook {

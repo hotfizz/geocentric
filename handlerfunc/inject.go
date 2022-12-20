@@ -13,7 +13,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
 
-	"github.com/dijkvy/geocentric/tag"
+	"github.com/hotfizz/geocentric/tag"
 )
 
 const (

@@ -6,7 +6,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/dijkvy/geocentric/handlerfunc"
+	"github.com/hotfizz/geocentric/handlerfunc"
 )
 
 func main() {

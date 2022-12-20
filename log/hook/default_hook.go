@@ -6,8 +6,8 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/dijkvy/geocentric/log"
-	"github.com/dijkvy/geocentric/tag"
+	"github.com/hotfizz/geocentric/log"
+	"github.com/hotfizz/geocentric/tag"
 )
 
 // NewTraceHook levels 日志级别
